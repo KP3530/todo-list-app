@@ -9,4 +9,4 @@ A simple and user-friendly Todo List application built with React. This app allo
 - Data persistence using `localStorage`.
 
 ## Preview
-![Todo List App Screenshot] ![Screenshot 2025-01-12 131524](https://github.com/user-attachments/assets/891ebb76-8c52-4a96-b32a-e8d92708e847)
+![Screenshot 2025-01-12 131524](https://github.com/user-attachments/assets/891ebb76-8c52-4a96-b32a-e8d92708e847)
